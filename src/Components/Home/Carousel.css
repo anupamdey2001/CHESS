@@ -1,0 +1,9 @@
+.custom_height{
+    margin-top: 6.5rem !important;
+    width: 100%;
+}
+.max_height{
+    /* max-height: 100vh !important; */
+    /* height: 800px; */
+    padding-bottom: 10%;
+}
