@@ -5,4 +5,11 @@ h4.role {
     color: #2c126a;
     font-style: normal ;
   }
-  
+.margin__top{
+  margin-top: 6rem;
+}
+  @media screen and (max-width: 997px) {
+    .margin__top{
+      margin-top: .5rem;
+    }
+  }

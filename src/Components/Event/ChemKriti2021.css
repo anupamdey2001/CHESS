@@ -24,7 +24,7 @@
   text-align: center;
 }
 .background__img {
-  border-radius: 12%;
+  border-radius: 8%;
   opacity: .95;
 }
 .background__heading {
@@ -35,4 +35,11 @@
 }
 .text_gold{
   color: #FFD700;
+}
+@media screen and (max-width: 260px) {
+  .card__outerHeading {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    color: #fff;
+  }
 }

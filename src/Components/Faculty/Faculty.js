@@ -83,7 +83,7 @@ function Faculty() {
                     wrapper="h5"
                     repeat={Infinity}
                   />
-                  <i class="fa-solid fa-envelope"></i>
+                  <i className="fa-solid fa-envelope"></i>
                   <h6>kartik.ghanta@che.nitdgp.ac.in</h6>
                   <h4>9434788020</h4>
                 </div>

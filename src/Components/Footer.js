@@ -95,58 +95,64 @@ function Footer() {
       <div className="container">
         <div className="w-50 margin_auto">
           <div className="row">
-            <div className="col-sm-2">
+            <div className="col-6 col-sm-2">
               <a
                 className="social-icons"
                 href="https://www.facebook.com/Chessnitd"
                 target="_blank"
+                rel="noreferrer"
               >
-                <i class="fa-brands fa-facebook-f"></i>
+                <i className="fa-brands fa-facebook-f"></i>
               </a>
             </div>
-            <div className="col-sm-2">
+            <div className="col-6 col-sm-2">
               <a
                 className="social-icons"
                 href="https://in.linkedin.com/company/chemical-engineering-students-society-nit-durgapur"
                 target="_blank"
+                rel="noreferrer"
               >
-                <i class="fa-brands fa-linkedin"></i>
+                <i className="fa-brands fa-linkedin"></i>
               </a>
             </div>
-            <div className="col-sm-2">
+            <div className="col-6 col-sm-2">
               <a
                 className="social-icons"
                 href="https://www.youtube.com/channel/UCZ-mhpK4AzJzpa3yZTR_P9w"
                 target="_blank"
+                rel="noreferrer"
               >
-                <i class="fa-brands fa-youtube"></i>
+                <i className="fa-brands fa-youtube"></i>
               </a>
             </div>
-            <div className="col-sm-2">
+            <div className="col-6 col-sm-2">
               <a
                 className="social-icons"
                 href="https://www.instagram.com/chess_nit_dgp/"
                 target="_blank"
+                rel="noreferrer"
               >
-                <i class="fa-brands fa-instagram"></i>
+                <i className="fa-brands fa-instagram"></i>
               </a>
             </div>
-            <div className="col-sm-2">
+            <div className="col-6 col-sm-2">
               <a
                 className="social-icons"
-                href="#"
+                href="/error"
                 target="_blank"
+                rel="noreferrer"
               >
-                <i class="fa-brands fa-twitter"></i>
+                <i className="fa-brands fa-twitter"></i>
               </a>
             </div>
-            <div className="col-sm-2">
+            <div className="col-6 col-sm-2">
               <a
                 className="social-icons"
                 href="https://github.com/CHESS-NIT-DURGAPUR"
                 target="_blank"
+                rel="noreferrer"
               >
-                <i class="fa-brands fa-github"></i>
+                <i className="fa-brands fa-github"></i>
               </a>
             </div>
           </div>

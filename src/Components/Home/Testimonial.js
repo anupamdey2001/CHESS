@@ -9,27 +9,27 @@ function Testimonial() {
       <input type="radio" name="slider" id="slide4" />
       <div id="slides">
         <div id="overflow">
-          <div class="inner">
-            <div class="slide slide_1">
-              <div class="slide-content">
+          <div className="inner">
+            <div className="slide slide_1">
+              <div className="slide-content">
                 <h2>2020</h2>
                 <p>YEAR OF ESTABLISHMENT</p>
               </div>
             </div>
-            <div class="slide slide_2">
-              <div class="slide-content">
+            <div className="slide slide_2">
+              <div className="slide-content">
                 <h2>12+</h2>
                 <p>SUCCESSFUL WEBINARS</p>
               </div>
             </div>
-            <div class="slide slide_3">
-              <div class="slide-content">
+            <div className="slide slide_3">
+              <div className="slide-content">
                 <h2>3+</h2>
                 <p>COURSES</p>
               </div>
             </div>
-            <div class="slide slide_4">
-              <div class="slide-content">
+            <div className="slide slide_4">
+              <div className="slide-content">
                 <h2>20+</h2>
                 <p>TEAM MEMBERS</p>
               </div>

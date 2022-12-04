@@ -137,4 +137,11 @@
   .slide-content p{
    font-size: .75em;
   }
+  #slides{
+   padding: 4px;
+   border: 2px solid #ccc;
+   background: #fff;
+   position: relative;
+   z-index: 1;
+  }
 }

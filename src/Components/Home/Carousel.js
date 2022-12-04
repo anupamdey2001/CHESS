@@ -41,7 +41,7 @@ function CarouselItem() {
             <Carousel.Caption>
               <TypeAnimation
                 cursor={true}
-                sequence={["Faculty", 3000, ""]}
+                sequence={["Members", 3000, ""]}
                 wrapper="h2"
                 repeat={Infinity}
               />
@@ -57,7 +57,7 @@ function CarouselItem() {
             <Carousel.Caption>
               <TypeAnimation
                 cursor={true}
-                sequence={["Members", 3000, ""]}
+                sequence={["Office Bearers", 3000, ""]}
                 wrapper="h2"
                 repeat={Infinity}
               />
@@ -73,7 +73,7 @@ function CarouselItem() {
             <Carousel.Caption>
               <TypeAnimation
                 cursor={true}
-                sequence={["Office Bearers", 3000, ""]}
+                sequence={["Alumni", 3000, ""]}
                 wrapper="h2"
                 repeat={Infinity}
               />
@@ -89,7 +89,7 @@ function CarouselItem() {
             <Carousel.Caption>
               <TypeAnimation
                 cursor={true}
-                sequence={["Alumni", 3000, ""]}
+                sequence={["Faculty", 3000, ""]}
                 wrapper="h2"
                 repeat={Infinity}
               />

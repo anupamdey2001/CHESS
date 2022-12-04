@@ -3,7 +3,10 @@
     width: 100%;
 }
 .max_height{
-    /* max-height: 100vh !important; */
-    /* height: 800px; */
     padding-bottom: 10%;
+}
+@media screen and (max-width: 980px) {
+    .custom_height{
+        margin-top: 0 !important;
+    }
 }

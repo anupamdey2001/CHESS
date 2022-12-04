@@ -29,7 +29,7 @@ function Alumni() {
   return (
     <div>
         <NavBar/>
-                    <div className="container-fluid" style={{marginTop: "6rem"}}>
+                    <div className="container-fluid margin__top">
                 <div className="section-title">
                     <h1>Our Alumni</h1>
                     <hr className="hr" width="50%" style={{ margin: "0 auto" }} />

@@ -8,11 +8,11 @@ function About() {
       <div className="container">
         <section className="py-5">
           <div className="row margin_top">
-            <div class="col-sm-6">
+            <div className="col-sm-6">
               <YouTube id="YxHAG6oSfsw" className="about__image" />
             </div>
 
-            <div class="about__lead col-sm-6">
+            <div className="about__lead col-sm-6">
               <h2 className="text_primary">About Us</h2>
               <h1 className="text-white">
                 What We <span style={{ color: "#FFD700" }}>Do</span>{" "}
@@ -28,7 +28,7 @@ function About() {
                 its members. <br /> We are conducting several events every year
                 for the betterment of students.
               </p>
-              <a href="/member" class="btn custom-btn btn-9">
+              <a href="/member" className="btn custom-btn btn-9">
                 VIEW OUR TEAM <i className="fa fa-users" aria-hidden="true"></i>
               </a>
             </div>
@@ -86,7 +86,7 @@ function About() {
               </div>
             </div>
             <div className="col-sm-6">
-            <img src={Team} class="img-rounded team" alt="team"/>
+            <img src={Team} className="img-rounded team" alt="team"/>
             </div>
           </div>
         </section>
